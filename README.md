@@ -13,7 +13,7 @@ The CodeTantra Bypass Demo provides a limited, one-time-use experience of the by
    - After starting the demo, open the CodeTantra App and proceed with your test.
 
 3. **Feature Limitations**  
-   - The demo does not remove the timer or support autotype/paste functionalities.
+   - The demo does not remove the timer or support any inbuilt autotype/paste functionalities. However, you can use your own autotyper. The demo bypass removes the autotyper blocks in place so any autotyper can work during the 10 minutes.
    - To access these additional features, purchase the full version available at:  
      [CodeTantra Bypass Full Version](https://sites.google.com/view/codetantra-bypass?usp=sharing)
 

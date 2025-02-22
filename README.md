@@ -18,7 +18,7 @@ The CodeTantra Bypass Demo provides a limited, one-time-use experience of the by
      [CodeTantra Bypass Full Version](https://sites.google.com/view/codetantra-bypass?usp=sharing)
 
 4. **Navigation**  
-   - This demo allows you to navigate out of CodeTantra.
+   - This demo allows you to navigate out of CodeTantra and autotype using any autotyper for 10 minutes.
 
 ## Disclaimer
 This demo is provided for demonstration purposes only. The limited functionality is intentional. For full functionality and extended features, please consider upgrading to the full version.

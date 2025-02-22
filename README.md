@@ -3,6 +3,9 @@
 ## Overview
 The CodeTantra Bypass Demo provides a limited, one-time-use experience of the bypass features available with CodeTantra Bypass. This demo is designed solely for testing purposes and is restricted in both duration and functionality.
 
+[Watch the video explanation](https://drive.proton.me/urls/YSPYJMPKR4#b9Hd96LH6Vcl)
+
+
 ## How to Use the Demo
 
 1. **Single Use & Time Limit**  
